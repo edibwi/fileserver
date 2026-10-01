@@ -1,0 +1,26 @@
+Trade name: Halcyon Ridge Solutions Ltd.
+Registration no.: 08842167 (fictional)
+Industry: Business & IT consulting services
+Founded: 2014
+Registered address:
+Suite 4B, Meridian House
+217 Ashcombe Road
+Bristol BS1 6QT
+United Kingdom
+Contact:
+Phone: +44 117 496 0182
+Email: info@halcyonridge.example
+Website: www.halcyonridge.example
+Executives:
+• Eleanor Vance — Chief Executive Officer (CEO)
+Email: e.vance@halcyonridge.example
+Appointed: March 2014
+• Marcus Delacroix — Chief Financial Officer (CFO)
+Email: m.delacroix@halcyonridge.example
+Appointed: June 2015
+• Priya Nair — Chief Operating Officer (COO)
+Email: p.nair@halcyonridge.example
+Appointed: January 2018
+• James Okafor — Chief Technology Officer (CTO)
+Email: j.okafor@halcyonridge.example
+Appointed: September 2016
